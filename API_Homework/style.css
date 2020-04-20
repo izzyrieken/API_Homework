@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+text-align: center;
+}
+
+.wrap {
+  text-align: center;
+
+}
+
+button {
+
+
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+
+
+.instructions {
+  margin-right: 50px;
+}
+
+.container {
+  display: inline-block;
+  width: 40%;
+}
+
+
+
+.listNYTimesData {
+  background-color: salmon;
+}
